@@ -49,15 +49,13 @@ Clean, modular UI that transforms for focused work or team sessions.
 - **Database:** MongoDB  
 
 ### 💻 Front-End
-- **Framework:** Next.js (App Router) with TypeScript  
+- **Framework:** Next.js (App Router) 
 - **State Management:** Zustand Toolkit  
 - **Editor:** TipTap  
-- **Styling:** Tailwind CSS + ShadCN UI  
 
 ### ⚙️ DevOps & Tools
 - **Version Control:** GitHub  
-- **Package Management:** npm / pnpm / yarn  
-- **Deployment:** Vercel / Render / Docker  
+- **Package Management:** npm 
 
 
 ## 🎥 Live Demo
